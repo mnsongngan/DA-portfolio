@@ -32,3 +32,5 @@ Nashville Housing Data Cleaning
 # Education
 
 # Contact
+* LinkedIn: [@mnsongngan](https://www.linkedin.com/in/songnganmainu/)
+* Email: mnsongngan@gmail.com
