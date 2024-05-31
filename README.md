@@ -11,22 +11,23 @@ My CV in [pdf](https://drive.google.com/file/d/1IDTDtjKCy3DkFi5r8Q2nMteJdxiCvkOJ
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics
 
 #Table of Content
-* [About](
-* Portfolio Projects
+* [About](https://github.com/mnsongngan/DA-portfolio/blob/main/README.md#about)
+* [Portfolio Projects](https://github.com/mnsongngan/DA-portfolio/blob/main/README.md#portfolio-projects)
 
-- SQL
+- [SQL]()
 Data Cleaning with SQL
 Nashville Housing Data Cleaning
 
-- Power BI
+- [Power BI]()
   
-* Education
+* [Education](https://github.com/mnsongngan/DA-portfolio/blob/main/README.md#education)
 
-* Certificates
+* [Certificates](https://github.com/mnsongngan/DA-portfolio/blob/main/README.md#certificates)
 
-* Contact
+* [Contact](https://github.com/mnsongngan/DA-portfolio/blob/main/README.md#contact)
+
 # Portfolio Projects
-## SQL
+  ## SQL
 
 # Education
 
