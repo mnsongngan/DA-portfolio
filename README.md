@@ -8,7 +8,7 @@ My CV in [pdf](https://drive.google.com/file/d/1IDTDtjKCy3DkFi5r8Q2nMteJdxiCvkOJ
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics
 
-#Table of Content
+# Table of Content
 * [About](https://github.com/mnsongngan/DA-portfolio/blob/main/README.md#about)
 * [Portfolio Projects](https://github.com/mnsongngan/DA-portfolio/blob/main/README.md#portfolio-projects)
   
@@ -20,9 +20,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Portfolio Projects
   ## SQL
-* Data Cleaning by SQL
+* [Data Cleaning with PostgreSQL](https://github.com/mnsongngan/portfolio.project/tree/main/Data%20Cleaning%20with%20PostgreSQL)
   
 # Education
+FOREIGN TRADE UNIVERSITY (FTU)	            					       
+Bachelor’s degree, Advanced Program in International Business Economics 		
+GPA 3.6 / 4.0 (Excellent Rank)	
 
 # Contact
 * LinkedIn: [@mnsongngan](https://www.linkedin.com/in/songnganmainu/)
