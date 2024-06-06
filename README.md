@@ -26,6 +26,9 @@ FOREIGN TRADE UNIVERSITY (FTU)
 Bachelor’s degree, Advanced Program in International Business Economics 		
 GPA 3.6 / 4.0 (Excellent Rank)	
 
+# Certificate
+[SQL (Basic, Intermediate, Advanced) Certificate by Hackerranhk](https://www.hackerrank.com/certificates/12de4d090ede)
+
 # Contact
 * LinkedIn: [@mnsongngan](https://www.linkedin.com/in/songnganmainu/)
 * Email: mnsongngan@gmail.com
