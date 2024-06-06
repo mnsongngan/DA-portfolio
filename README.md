@@ -4,7 +4,7 @@ Hi, I'm Song Ngan! I have an analytical background in Finance and currently, I a
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://drive.google.com/file/d/1IDTDtjKCy3DkFi5r8Q2nMteJdxiCvkOJ/view?usp=sharing)
+My CV in [pdf]([https://drive.google.com/file/d/1IDTDtjKCy3DkFi5r8Q2nMteJdxiCvkOJ/view?usp=sharing](https://drive.google.com/file/d/1fwdwnPP91y19mUYjEDzpv6P83X3LJQ1d/view?usp=drive_link)
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics
 
