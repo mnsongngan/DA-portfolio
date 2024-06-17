@@ -18,12 +18,13 @@ This is a repository to showcase skills, share projects and track my progress in
 * [Contact](https://github.com/mnsongngan/DA-portfolio/blob/main/README.md#contact)
 
 # Portfolio Projects
-  ## SQL
+ ### SQL
 * [Data Cleaning with PostgreSQL](https://github.com/mnsongngan/portfolio.project/tree/main/Data%20Cleaning%20with%20PostgreSQL)
 * [8 Week SQL Challenge](https://github.com/mnsongngan/portfolio.project/tree/88a23dbd1bf9b48ce7ea11565baed04ecbe09144/8weeksqlchallenge/Case%20study%20%231%20-%20Danny's%20Diner)
-  ## Power BI
+  This is the solution for 8 Week SQL Challenge from https://8weeksqlchallenge.com/
+ ### Power BI
 * [Performance Report](https://github.com/mnsongngan/PowerBI_Project.git)
-  
+  Sales/Quantity/Gross Profit Performance Report of Plant Co.
 # Education
 FOREIGN TRADE UNIVERSITY (FTU)	            					       
 Bachelor’s degree, Advanced Program in International Business Economics 		
