@@ -20,6 +20,9 @@ This is a repository to showcase skills, share projects and track my progress in
 # Portfolio Projects
   ## SQL
 * [Data Cleaning with PostgreSQL](https://github.com/mnsongngan/portfolio.project/tree/main/Data%20Cleaning%20with%20PostgreSQL)
+* [8 Week SQL Challenge](https://github.com/mnsongngan/portfolio.project/tree/88a23dbd1bf9b48ce7ea11565baed04ecbe09144/8weeksqlchallenge/Case%20study%20%231%20-%20Danny's%20Diner)
+  ## Power BI
+* [Performance Report](https://github.com/mnsongngan/PowerBI_Project.git)
   
 # Education
 FOREIGN TRADE UNIVERSITY (FTU)	            					       
