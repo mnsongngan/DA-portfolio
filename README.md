@@ -28,7 +28,7 @@ This is a repository to showcase skills, share projects and track my progress in
  ## Python
 ### AB Testing
 * [code](https://github.com/mnsongngan/python_project.git)
-* * **Description:** Conducting A/B Testing: Step by Step & Hypothesis Testing
+* **Description:** Conducting A/B Testing: Step by Step & Hypothesis Testing
  ## Power BI
 #### Performance Report
 * [Code](https://github.com/mnsongngan/PowerBI_Project.git)
