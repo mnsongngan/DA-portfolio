@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 * **Description:** This is the solution for 8 Week SQL Challenge from https://8weeksqlchallenge.com/
  ## Python
 ### AB Testing
-* [code](https://github.com/mnsongngan/python_project.git)
+* [code][https://github.com/mnsongngan/python_project/tree/f6eee1359d9fb3b4c7ba05d8f175343d040cd1b6/AB%20Testing]
 * **Description:** Conducting A/B Testing: Step by Step & Hypothesis Testing
  ## Power BI
 #### Performance Report
