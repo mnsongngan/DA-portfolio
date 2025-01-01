@@ -29,6 +29,10 @@ This is a repository to showcase skills, share projects and track my progress in
 ### AB Testing
 * [Code](https://github.com/mnsongngan/python_project/tree/f6eee1359d9fb3b4c7ba05d8f175343d040cd1b6/AB%20Testing)
 * **Description:** Conducting A/B Testing: Step by Step & Hypothesis Testing
+
+### Cohort Analysis: Customer Retention, Segment by Quantity and Revenue
+*  [Code](https://github.com/mnsongngan/python_project/tree/main/Cohort%20Analysis%20Customer%20Retention)
+*  **Description:** 
  ## Power BI
 #### Performance Report
 * [Code](https://github.com/mnsongngan/PowerBI_Project.git)
