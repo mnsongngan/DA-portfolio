@@ -35,11 +35,13 @@ This is a repository to showcase skills, share projects and track my progress in
  * **Description:** Sales/Quantity/Gross Profit Performance Report of Plant Co.
 # Education
 FOREIGN TRADE UNIVERSITY (FTU)	            					       
-Bachelor’s degree, Advanced Program in International Business Economics 		
-GPA 3.6 / 4.0 (Excellent Rank)	
+Bachelor of International Business Economics - Advanced Programe
+GPA 3.6 / 4.0 
+Outstanding Student Award of Cohort 59 - FTU
 
 # Certificate
 [SQL (Basic, Intermediate, Advanced) Certificate by Hackerranhk](https://www.hackerrank.com/certificates/12de4d090ede)
+
 
 # Contact
 * LinkedIn: [@mnsongngan](https://www.linkedin.com/in/songnganmainu/)
