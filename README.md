@@ -25,7 +25,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ### 8 Week SQL Challenge
 * [Code](https://github.com/mnsongngan/portfolio.project/tree/88a23dbd1bf9b48ce7ea11565baed04ecbe09144/8weeksqlchallenge/Case%20study%20%231%20-%20Danny's%20Diner)
 * **Description:** This is the solution for 8 Week SQL Challenge from https://8weeksqlchallenge.com/
- ##[Python](https://github.com/mnsongngan/python_project/tree/main) 
+
+## Python: [link](https://github.com/mnsongngan/python_project/tree/main) 
 ### AB Testing
 * [Code](https://github.com/mnsongngan/python_project/tree/f6eee1359d9fb3b4c7ba05d8f175343d040cd1b6/AB%20Testing)
 * **Description:** Conducting A/B Testing: Step by Step & Hypothesis Testing
